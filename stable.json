@@ -1,9 +1,9 @@
 {
   "channel": "stable",
   "commit": "d2a4cd29ed437ac87d574930ba93d2ccda1775fe",
-  "issued_at": "2026-08-24T06:26:37.667240Z",
+  "issued_at": "2026-08-24T10:06:45.789816Z",
   "notes_url": "https://github.com/Milfslayer419/WAR-Core/commit/d2a4cd29ed437ac87d574930ba93d2ccda1775fe",
   "schema_version": 1,
-  "signature": "rj3bkxFeFotA971xg5VEUudzz7vSPe+N/r+DatP1z3CqvMhI1uMgRKDFFlncZQ14sOHDlw0/Rhs6dXlUG+STDw==",
+  "signature": "2f3PhHn+qOwe73eI9JJTUhjugiExN+/7qbAST3DevDyRhJ6pPWzKjFaDyhF0TQh09BpG4Hf/l0a/SiO8u/JjAA==",
   "version": "2.16.0"
 }
