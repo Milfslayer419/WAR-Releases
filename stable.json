@@ -1,9 +1,9 @@
 {
   "channel": "stable",
-  "commit": "6862227d4b66b9accfb456f0c0fd18d05895ef5c",
-  "issued_at": "2026-08-25T00:27:32.416909Z",
-  "notes_url": "https://github.com/Milfslayer419/WAR-Core/commit/6862227d4b66b9accfb456f0c0fd18d05895ef5c",
+  "commit": "cd106e378225355077fc9cb102bc3799fc68a789",
+  "issued_at": "2026-08-25T02:03:30.344538Z",
+  "notes_url": "https://github.com/Milfslayer419/WAR-Core/commit/cd106e378225355077fc9cb102bc3799fc68a789",
   "schema_version": 1,
-  "signature": "esNQSR7AEc3ukWcPyqDG4X+tvSjdWCc+4imfFl2foRK2MOxqtseui97NgiNWDrQODWS/pm1nW1dil4E5x5HFAg==",
-  "version": "2.17.0"
+  "signature": "ObK52GTQSotL0Cz+i0o8klUKHLJO5Rp/tgkADo/alMoxM3oomsCcCsGQQFOjOE+iIsXuxOJeLIpKtgdU7jV6Dw==",
+  "version": "2.18.0"
 }
