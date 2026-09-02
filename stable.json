@@ -1,15 +1,15 @@
 {
   "channel": "stable",
-  "commit": "6acee155905d403c1c8e4c685f79609f854dcb62",
-  "issued_at": "2026-09-01T14:11:00.637988Z",
-  "notes_url": "https://github.com/Milfslayer419/WAR-Core/pull/164",
+  "commit": "127275c4a1343c660235ee7b76e778214149a2ef",
+  "issued_at": "2026-09-02T02:26:00.904758Z",
+  "notes_url": "https://github.com/Milfslayer419/WAR-Core/commit/127275c4a1343c660235ee7b76e778214149a2ef",
   "schema_version": 2,
-  "signature": "aTYXhsGG+3CrP1H8gN/IQfxDp9ZNh7kL1OxGERgNWgqSxyeELT1UiSOdpAusAT9zG6VwyyaFaTLs75uHeo0RCg==",
-  "version": "2.25.0",
+  "signature": "ro/cpp1kXYxXcbaaBL1O9ocmibDDD7J+OQuXNZQgvCemYbdeYW28GMRhtO3k7WPfyzMPOTFFVsJlxYf3zz5lBg==",
+  "version": "2.26.0",
   "worker": {
     "bytes": 247331,
-    "filename": "war-worker-v2.25.0.zip",
+    "filename": "war-worker-v2.26.0.zip",
     "protocol_version": 9,
-    "sha256": "27d23b340cc2bbe10ae66244f30d0dbe541a2492f983719c06ee2be4213b9b4c"
+    "sha256": "3d0ee23d8bb9a178ebc9673dcf4fe9faa7112d8364232c83a867bb53c668cd46"
   }
 }
