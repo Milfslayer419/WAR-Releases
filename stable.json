@@ -1,10 +1,10 @@
 {
   "channel": "stable",
   "commit": "1531257571cea72c7ea51dc6332a101f1624311d",
-  "issued_at": "2026-09-07T15:05:16.333393Z",
+  "issued_at": "2026-09-08T13:40:27.870889Z",
   "notes_url": "https://github.com/Milfslayer419/WAR-Core/pull/170",
   "schema_version": 2,
-  "signature": "RLM+NrmM9WNIu9RBVWn+lOrbGnh6buYq0eL76Qk7ZZ3YMiqJQS/mv2jT8OvaBcVDfoLzzXmlXHKvriyXdgHHCA==",
+  "signature": "nPKfktAnT+qCpaA/PMqqed/sV6yLkW55TEesftVupz4hbgC1T/ok/t1QXBv0mviyRM6xm5Hs0S+KWCJKVxhnDA==",
   "version": "2.27.1",
   "worker": {
     "bytes": 254294,
