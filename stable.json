@@ -1,15 +1,15 @@
 {
   "channel": "stable",
-  "commit": "1531257571cea72c7ea51dc6332a101f1624311d",
-  "issued_at": "2026-09-15T14:21:20.420067Z",
-  "notes_url": "https://github.com/Milfslayer419/WAR-Core/pull/170",
+  "commit": "802b867e4421adb8c3839f93a4d677049a1f64e5",
+  "issued_at": "2026-09-16T14:02:41.324969Z",
+  "notes_url": "https://github.com/Milfslayer419/WAR-Core/blob/802b867e4421adb8c3839f93a4d677049a1f64e5/docs/hermes-supervisor-compatibility.md",
   "schema_version": 2,
-  "signature": "dXTnaIGnND4uDM1MyA4TPSOLcS/O2B9NdmUXYBSObO56fTeyx/DEr4wMUnut8iuBdb0D1x52G+v2MpUuDFpzDw==",
-  "version": "2.27.1",
+  "signature": "qX/3bE+H0As9PjwqrKLDtxbi82VMSc3M9zptQ3ueiEC5+UIs+Oy/xV3j4jUv51+1UDs2BqDCBrPW9joQ4xVmBA==",
+  "version": "2.27.3",
   "worker": {
     "bytes": 254294,
-    "filename": "war-worker-v2.27.1.zip",
+    "filename": "war-worker-v2.27.3.zip",
     "protocol_version": 10,
-    "sha256": "63e3f1eff240d929b5ee9f7e43b8b950f97d0566b8d8c5a8853e11f4f8bd49cb"
+    "sha256": "c36fadf6bfe8534dbefd37b35990aa8b6e05cf6acdfdded4793a7256fe472300"
   }
 }
