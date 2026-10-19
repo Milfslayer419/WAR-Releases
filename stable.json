@@ -1,10 +1,10 @@
 {
   "channel": "stable",
   "commit": "802b867e4421adb8c3839f93a4d677049a1f64e5",
-  "issued_at": "2026-10-18T13:20:49.998113Z",
+  "issued_at": "2026-10-19T16:30:27.240555Z",
   "notes_url": "https://github.com/Milfslayer419/WAR-Core/blob/802b867e4421adb8c3839f93a4d677049a1f64e5/docs/hermes-supervisor-compatibility.md",
   "schema_version": 2,
-  "signature": "08QL7wui8Nf/ELrvf3fL8Rs04CDjj6yd8CxnJJ6z85KXaBB1VR5ZK2EfR2+Pb19bNAL5H1QGf5SDK3MN8wUyBA==",
+  "signature": "3OXWScM8Jm/J0/UD6eykfSdMbuZjGXSCjSneFr3QVeHwErlDCcfdCXwTfvT/oZh7RJ2h7NadcCP4+qD+HGFpBw==",
   "version": "2.27.3",
   "worker": {
     "bytes": 254294,
